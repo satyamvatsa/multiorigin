@@ -36,7 +36,7 @@ export default function Header({
           <div className="cs_main_header_in">
             <div className="cs_main_header_left">
               <Link className="cs_site_branding" to="/">
-                <img src={logoUrl} alt="Logo" />
+                <h4>Multiorigin</h4>
               </Link>
             </div>
             <div className="cs_main_header_center">
