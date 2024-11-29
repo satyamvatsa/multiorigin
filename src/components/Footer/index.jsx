@@ -2,9 +2,9 @@ import { Icon } from '@iconify/react';
 import React from 'react';
 import { Link } from 'react-router-dom';
 const addressDataList = [
-  '5553 Jay Path Apt. 908',
-  '+44 454 7800 112',
-  'info@zivan.net',
+  '1-6-504, New Maruthi Nagar, Chaitanyapuri, Hyderabad, 500060',
+  '+91 96505 82767',
+  'info@mutliorigin.com',
 ];
 const serviceMenuList = [
   {
@@ -98,7 +98,7 @@ export default function Footer() {
             <div className="col-lg-3 col-sm-6">
               <div className="cs_footer_item">
                 <div className="cs_text_widget">
-                  <img src="/images/logo_white.svg" alt="Logo" />
+                  <h4>MultiOrigin</h4>
                 </div>
                 <ul className="cs_menu_widget cs_mp0">
                   {addressDataList.map((item, index) => (
@@ -174,7 +174,7 @@ export default function Footer() {
               ))}
             </div>
           </div>
-          <div className="cs_copyright">Copyright © 2023 Laralink.</div>
+          <div className="cs_copyright">Copyright © 2023 MutliOrigin.</div>
           <div className="cs_bottom_footer_right">
             <ul className="cs_footer_links cs_mp0">
               {policyMenuList.map((item, index) => (

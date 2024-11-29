@@ -30,49 +30,49 @@ export default function TeamPage() {
             <div className="col-lg-4 col-sm-6">
               <TeamMember
                 memberImg="/images/studio-agency/team_1.jpeg"
-                memberName="James Berline"
-                memberDesignation="React Developer"
-                href="/team-details"
+                memberName="Satyam Vatsa"
+                memberDesignation="Project Manager"
+                href="/team/team-details"
               />
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
                 memberImg="/images/studio-agency/team_2.jpeg"
-                memberName="Bella Zubena"
-                memberDesignation="Graphic Designer"
-                href="/team-details"
+                memberName="Nidhi Pathak"
+                memberDesignation="Motion / Graphic Designer"
+                href="/team/team-details"
               />
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
                 memberImg="/images/studio-agency/team_3.jpeg"
-                memberName="Kemnei Alekzend"
-                memberDesignation="Digital Marketer"
-                href="/team-details"
+                memberName="Mukesh Kumar"
+                memberDesignation="3D Artist"
+                href="/team/team-details"
               />
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
                 memberImg="/images/studio-agency/team_4.jpeg"
-                memberName="Juliya Jesmine"
-                memberDesignation="UX Researcher"
-                href="/team-details"
+                memberName="Sai Charan"
+                memberDesignation="UI Designer"
+                href="/team/team-details"
               />
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
                 memberImg="/images/studio-agency/team_5.jpeg"
-                memberName="Bob Mulian"
+                memberName="Om Vats"
                 memberDesignation="Video Editor"
-                href="/team-details"
+                href="/team/team-details"
               />
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
                 memberImg="/images/studio-agency/team_6.jpeg"
-                memberName="Sindrela Anam"
-                memberDesignation="Script Writer"
-                href="/team-details"
+                memberName="Ravneet Singh"
+                memberDesignation="Front-end Developer"
+                href="/team/team-details"
               />
             </div>
           </div>
