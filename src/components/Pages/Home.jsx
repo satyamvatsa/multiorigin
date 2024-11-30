@@ -54,49 +54,49 @@ const testimonialData = [
 ];
 const postData = [
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_1.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_1.jpg',
     title: 'How to keep fear from ruining your art business with confident',
     date: '07 Mar 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_2.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_2.jpg',
     title: 'Artistic mind will be great for creation anything',
     date: '22 Apr 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_3.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_3.jpg',
     title: 'AI will take over all job for human within few years',
     date: '13 May 2023',
     url: '/blog/blog-details',
   },
   {
-    thumbnailSrc: '/images/creative-agency/post_4.jpeg',
+    thumbnailSrc: '/images/creative-agency/post_4.jpg',
     title: 'Your agency need to replace some artistic mind people',
     date: '15 Mar 2023',
     url: '/blog/blog-details',
