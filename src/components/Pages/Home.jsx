@@ -260,7 +260,7 @@ export default function TechStartupPage() {
         <Spacing lg="130" md="70" />
         <VideoModal
           videoSrc="https://www.youtube.com/embed/VcaAVWtP48A"
-          bgUrl="/images/tech-startup/hero_video_bg.jpeg"
+          bgUrl="/images/tech-startup/hero_video_bg.jpg"
           title="Our Design and Technology <br /> Studio is dedicated to making <br />your ideas a reality"
           titleVariant="cs_outline_text"
         />
@@ -336,7 +336,7 @@ export default function TechStartupPage() {
             title="Is there a specific project or goal that you have in mind?"
             btnText="Contact Us"
             btnUrl="/contact"
-            bgUrl="/images/tech-startup/cta_bg.jpeg"
+            bgUrl="/images/tech-startup/cta_bg.jpg"
             noShape
           />
         </div>
