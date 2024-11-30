@@ -29,7 +29,7 @@ export default function TeamPage() {
           <div className="row cs_gap_y_35">
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_1.jpg"
+                memberImg="/images/others/team_1.jpg"
                 memberName="Satyam Vatsa"
                 memberDesignation="Project Manager"
                 href="/team/team-details"
@@ -37,7 +37,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_2.jpg"
+                memberImg="/images/others/team_2.jpg"
                 memberName="Nidhi Pathak"
                 memberDesignation="Motion / Graphic Designer"
                 href="/team/team-details"
@@ -45,7 +45,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_3.jpg"
+                memberImg="/images/others/team_3.jpg"
                 memberName="Mukesh Kumar"
                 memberDesignation="3D Artist"
                 href="/team/team-details"
@@ -53,7 +53,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_4.jpg"
+                memberImg="/images/others/team_4.jpg"
                 memberName="Sai Charan"
                 memberDesignation="UI Designer"
                 href="/team/team-details"
@@ -61,7 +61,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_5.jpg"
+                memberImg="/images/others/team_5.jpg"
                 memberName="Om Vats"
                 memberDesignation="Video Editor"
                 href="/team/team-details"
@@ -69,7 +69,7 @@ export default function TeamPage() {
             </div>
             <div className="col-lg-4 col-sm-6">
               <TeamMember
-                memberImg="/images/studio-agency/team_6.jpg"
+                memberImg="/images/others/team_6.jpg"
                 memberName="Ravneet Singh"
                 memberDesignation="Front-end Developer"
                 href="/team/team-details"
