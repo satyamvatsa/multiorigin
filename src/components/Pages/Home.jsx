@@ -186,7 +186,7 @@ export default function TechStartupPage() {
           <div className="row g-3">
             <div className="col-lg-12">
               <Card
-                thumbnailSrc="/images/tech-startup/goal.jpeg"
+                thumbnailSrc="/images/tech-startup/goal.jpg"
                 title="Revolutionize industries with cutting-edge solutions."
                 miniTitle="Our Goal"
               />
