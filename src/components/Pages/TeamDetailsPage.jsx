@@ -21,7 +21,7 @@ export default function TeamDetailsPage() {
           <div className="row">
             <div className="col-xl-5">
               <img
-                src="/images/others/team_details_1.jpeg"
+                src="/images/others/team_details_1.jpg"
                 alt="Member"
                 className="w-100"
               />

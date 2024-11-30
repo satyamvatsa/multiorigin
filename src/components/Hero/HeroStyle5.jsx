@@ -24,7 +24,7 @@ export default function HeroStyle5({
   return (
     <section
       className="cs_hero cs_style_5 position-relative text-center cs_center cs_ripple_activate cs_bg_filed"
-      style={{ backgroundImage: 'url(/images/tech-startup/hero-bg.jpeg)' }}
+      style={{ backgroundImage: 'url(/images/tech-startup/hero-bg.jpg)' }}
     >
       <div className="container">
         <div className="cs_hero_text position-relative">
