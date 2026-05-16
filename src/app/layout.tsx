@@ -117,6 +117,15 @@ export default function RootLayout({
     <html lang="en" className={`${geist.variable} h-full`}>
       <head>
         <script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-7V8LVTQKVZ"
+        />
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','G-7V8LVTQKVZ');`,
+          }}
+        />
+        <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
         />
