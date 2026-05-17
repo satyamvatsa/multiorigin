@@ -27,7 +27,10 @@ const simpleLinks: SimpleLink[] = [
   { href: '/about', label: 'About' },
 ];
 
-const tailLinks: SimpleLink[] = [{ href: '/contact', label: 'Contact' }];
+const tailLinks: SimpleLink[] = [
+  { href: '/blog', label: 'Blog' },
+  { href: '/contact', label: 'Contact' },
+];
 
 const coreServices = [
   {

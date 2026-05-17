@@ -1,5 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { PRINT_SERVICES } from '@/lib/print-services';
+import { BLOG_POSTS } from '@/lib/blog-posts';
 
 const baseUrl = 'https://multiorigin.com';
 
@@ -52,5 +53,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
     priority: 0.85,
   }));
 
-  return [...core, ...services];
+  const blog: MetadataRoute.Sitemap = [
+    {
+      url: `${baseUrl}/blog`,
+      lastModified: now,
+      changeFrequency: 'weekly',
+      priority: 0.8,
+    },
+    ...BLOG_POSTS.map((post) => ({
+      url: `${baseUrl}/blog/${post.slug}`,
+      lastModified: new Date(post.date),
+      changeFrequency: 'monthly' as const,
+      priority: 0.7,
+    })),
+  ];
+
+  return [...core, ...services, ...blog];
 }
